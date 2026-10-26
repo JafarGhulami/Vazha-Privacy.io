@@ -2,7 +2,7 @@
 
 _Last updated: 26 October 2026_ · [فارسی](PRIVACY_POLICY.fa.md)
 
-This Privacy Policy applies to **Vazhe (واژه)**, an English⇄Persian dictionary and learning app for Android (package `app.vazhe.dictionary`) and its web version, published by **GiTi Tech** ("we", "us", "our"). You can reach us at **jghulami2000@gmail.com**.
+This Privacy Policy applies to **Vazhe (واژه)**, an English⇄Persian dictionary and learning app for Android (package `app.vazhe.dictionary`) and its web version, published by **GiTi Tech** ("we", "us", "our"). You can reach us at **vazhe.app@gmail.com**.
 
 ## 1. Summary
 
@@ -99,6 +99,6 @@ We may update this policy, for example if the app changes. The "last updated" da
 
 ## 16. Contact
 
-**GiTi Tech** — **jghulami2000@gmail.com**
+**GiTi Tech** — **vazhe.app@gmail.com**
 
 If you are in the EEA or UK and are not satisfied with our answer, you may contact your local data-protection authority.
